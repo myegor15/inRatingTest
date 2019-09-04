@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">InRatingTest</string>
+    <string name="postStatistics">Статистика поста</string>
+    <string name="views">Просмотры</string>
+    <string name="likes">Лайки</string>
+    <string name="commentators">Коментаторы</string>
+    <string name="mentions">Отметки</string>
+    <string name="reposts">Репосты</string>
+    <string name="bookmarks">Закладки</string>
 </resources>
